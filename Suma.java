@@ -18,6 +18,7 @@ public class Suma extends Principal{
 	 *		<li>Si algun numero es negativo, la suma se realiza igual.
 	 *		<li>Si algun numero es 0, la suma se realiza de la misma forma.
 	 *		<li>Si algun numero es decimal, la suma se realiza de la misma forma.
+	 *		<li>Si algun numero es demasiado alto da error.
 	 *	</ul>
 	 *
 	 * @param num1 Primer numero de tipo real para operar en la suma
